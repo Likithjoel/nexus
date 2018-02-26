@@ -9,9 +9,9 @@ var release = {
       username:'admin',
       password:'admin123'
     },
-    pomDir: 'build/pom',
+    pomDir: '',
     url: 'http://54.236.65.251:8081/nexus/content/repositories/mern/',
-    artifact: 'build/nexus-deployer.zip',
+    artifact: 'nexus-deployer.zip',
     noproxy: '54.236.65.251',
     cwd: ''
 };
