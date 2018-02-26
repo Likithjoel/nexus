@@ -1,8 +1,8 @@
 var deployer = require('nexus-deployer');
  
 var release = {
-    groupId: 'nexus-deployer',
-    artifactId: 'nexus-deployer',
+    groupId: 'nexus',
+    artifactId: 'nexus',
     version: '1.0',
     packaging: 'zip',
     auth: {
